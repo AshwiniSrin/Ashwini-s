@@ -10,3 +10,6 @@
 |8|Borrow Book Functionality|Allow users to borrow books if they’re available.|H|
 |9|Return Book Functionality|Enable users to return borrowed books.|H|
 |10|Borrowing History|Keep records of borrowed books and show overdue items.|M|
+|11|Overdue Notifications|Notify users about overdue books through email.|M|
+
+
